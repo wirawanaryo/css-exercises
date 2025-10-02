@@ -1,1 +1,21 @@
 /* Add CSS Styling */
+.redblock {
+    background-color: rgb(250, 165, 165);
+    font-family: Verdana, dejaVu sans, sans-serif; 
+    color: black;      
+}
+
+.cooler {
+    font-size: 24px;    
+}
+
+#number2 {
+    color: blue;
+    font-size: 36px;    
+}
+
+#number4 {
+    background-color: lightgreen;
+    font-weight: bold;
+    font-size: 24px;    
+}
